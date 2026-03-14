@@ -1,0 +1,6 @@
+pandas
+akshare
+matplotlib
+mplfinance
+openpyxl
+plotly
